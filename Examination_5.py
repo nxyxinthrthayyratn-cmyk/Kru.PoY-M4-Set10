@@ -8,3 +8,8 @@
 
 # นักเรียนเขียนโค้ดต่อจากบรรทัดนี้
 unit = int(input())
+Input =int(input(100))
+Output = int(input(50))
+Input = int(input(3)
+Input = int(input(100))
+Input = int(input(50))
