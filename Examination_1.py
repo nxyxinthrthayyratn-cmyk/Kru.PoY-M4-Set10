@@ -7,3 +7,5 @@
 
 # นักเรียนเขียนโค้ดต่อจากบรรทัดนี้
 total_minutes = int(input())
+total = int(input())
+                    
