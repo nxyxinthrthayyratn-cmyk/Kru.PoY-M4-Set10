@@ -7,4 +7,6 @@
 
 # นักเรียนเขียนโค้ดต่อจากบรรทัดนี้
 a = int(input())
-b = int(input())
+b = int(input()) 
+ "A is grear"
+"B is greater greater or equal"
